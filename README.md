@@ -43,6 +43,6 @@ Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
 
 # Agknowledgments
 
-A special thanks to [Jessamyn McTwigan](https://github.com/jessamyn27) for working closely with me & letting me use her JavaScript for better functionality.
+A special thanks to [Jessamyn McTwigan](https://github.com/jessamyn27) for working closely with me & letting me use her JavaScript for better functionality & CSS layouts.
 
 "Last, but not least, I would like to thank me. I want to thank me for believing in me, I want to thank me for doing all this hard work. I wanna thank me for having no days off. I wanna thank me for never quitting. I wanna thank me for always been a giver and trying to give more than I receive. I want to thank me for trying to do more right than wrong. I want to thank me for just being me at all times.” --Snoop Dog
