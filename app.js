@@ -53,7 +53,7 @@ function newManager() {
             newEmployee();
         })
 }
-
+//function to add new Employee to the profile
 function newEmployee() {
     inquirer
         .prompt([{
@@ -115,7 +115,7 @@ function newEmployee() {
             if (response.add == true) { newEmployee(); } else { createHTML(); }
         })
 }
-
+//anonymous function to create HTML file
 const createHTML = () => {
     fs.writeFile("test.html", generateHTML(team), (err) => {
         err ? console.log("Error! file not created") : console.log("success! file created")
