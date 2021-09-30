@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    color:#B79CED;
+    text-align: center;
+}
+
+main,
+section {
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 100px !important;
+    margin-bottom: 50px;
+    justify-content: space-around;
+}
+
+.card {
+    padding-left: 0px;
+    padding-right: 0px;
+    border:#B79CED;
+}
+
+.card-header {
+    padding: 0px;
+    margin: 0px;
+}
+
+.text-dark {
+    color: #d039ee!important;
+}
+
+@media screen and (max-width: 700px) {
+    main {
+        /* margin-left: 15%;
+        margin-right: 15%; */
+    }
+}
