@@ -1,0 +1,20 @@
+{
+    "name": "employee-oop-hw",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "directories": {
+        "lib": "lib",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "inquirer": "^8.1.2",
+        "jest": "^27.0.6"
+    }
+}
