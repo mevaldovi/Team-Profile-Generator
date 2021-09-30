@@ -1,4 +1,6 @@
 # Team-Profile-Generator-Jest-Node-HTML
+<img width="630" alt="team-Profile-Generator" src="https://user-images.githubusercontent.com/83307023/135534890-1b709e65-2db4-4ccc-a125-b6718ab26378.PNG">
+
 
 # Description
 Dynamically generates a mock team profile webpage.
