@@ -1,7 +1,7 @@
 # Team-Profile-Generator-Jest-Node-HTML
 
 # Description
-Dynamically generates HTML of company employee roster to view in the browser.
+Dynamically generates a mock team profile webpage.
 # Technology
 Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
@@ -29,9 +29,9 @@ Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
 
 # Usage
-[Demo](walkthrough video link goes here). 
+[Demo video](https://watch.screencastify.com/v/NVIO3WLFQT7clEBBGJdo). 
 
-If the link does not work, you can just clone down this repo, open terminal and type "npm start".
+If the link does not work, you can just clone down this repo, open terminal and type "npm start" or "node app.js"
 
 # License
 MIT License
