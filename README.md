@@ -1,4 +1,7 @@
 # Team-Profile-Generator-Jest-Node-HTML
+
+[Video Demo](https://watch.screencastify.com/v/NVIO3WLFQT7clEBBGJdo). 
+
 <img width="630" alt="team-Profile-Generator" src="https://user-images.githubusercontent.com/83307023/135534890-1b709e65-2db4-4ccc-a125-b6718ab26378.PNG">
 
 
@@ -31,7 +34,6 @@ Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
 
 # Usage
-[Demo video](https://watch.screencastify.com/v/NVIO3WLFQT7clEBBGJdo). 
 
 If the link does not work, you can just clone down this repo, open terminal and type "npm start" or "node app.js"
 
