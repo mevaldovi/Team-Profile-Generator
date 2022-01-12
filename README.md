@@ -39,13 +39,15 @@ Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
 - npm install
 
+- cd app.js
+
 - node app.js || npm start
 
 
 # License
 MIT License
 # Contact
-[Github](https://github.com/mevaldovi)
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
