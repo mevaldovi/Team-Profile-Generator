@@ -35,13 +35,15 @@ Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
 # Usage
 
-- Clone this repo
+Bold text indicates commands in the terminal; italicized text indicates steps to take
 
-- npm install
+- _Clone this repo_
 
-- cd app.js
+- **npm install
 
-- node app.js || npm start
+- **cd app.js
+
+- **node app.js || npm start
 
 
 # License
