@@ -39,11 +39,11 @@ Bold text indicates commands in the terminal; italicized text indicates steps to
 
 - _Clone this repo_
 
-- **npm install
+- **npm install**
 
-- **cd app.js
+- **cd app.js**
 
-- **node app.js || npm start
+- **node app.js || npm start**
 
 
 # License
