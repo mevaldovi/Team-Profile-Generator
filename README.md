@@ -42,7 +42,7 @@ Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
 - `cd app.js`
 
-- `node app.js || npm start`
+- `node app.js` ||  `npm start`
 
 
 # License
