@@ -35,21 +35,22 @@ Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
 
 # Usage
 
-Bold text indicates commands in the terminal; italicized text indicates steps to take
 
 - _Clone this repo_
 
-- **npm install**
+- `npm install`
 
-- **cd app.js**
+- `cd app.js`
 
-- **node app.js || npm start**
+- `node app.js || npm start`
 
 
 # License
 MIT License
 # Contact
 Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
+
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
