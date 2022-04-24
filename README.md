@@ -8,7 +8,11 @@ Video Demo: [https://watch.screencastify.com/v/NVIO3WLFQT7clEBBGJdo](https://wat
 # Description
 Dynamically generates a mock team profile webpage.
 # Technology
-Jest & Inquirer node package for running tests, Javascript, HTML & CSS.
+[<img alt="medium" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />](https://jestjs.io/docs/getting-started)
+[<img alt="medium" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://docs.npmjs.com/)
+[<img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 # Table of Contents
